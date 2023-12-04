@@ -24,13 +24,8 @@ This presentation can be used as a reference for understanding market analysis t
 ## Contributing
 Feedback and suggestions for improvement are welcome. Please feel free to fork this repository and submit your contributions via pull requests.
 
-## License
-[Specify the License here]
-
 ## Contact
-For any additional information or inquiries, please contact [Your Name or Contact Information].
+For any additional information or inquiries, please contact me.
 
-## Acknowledgements
-- [Mention any collaborators, data sources, or special thanks here]
 
 
